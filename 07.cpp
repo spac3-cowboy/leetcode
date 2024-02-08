@@ -5,6 +5,7 @@ public:
         long long reversed_num = 0;
 
         // Define the maximum and minimum possible values for an int
+        int INT_MAX, INT_MIN;
         int max_int = INT_MAX;
         int min_int = INT_MIN;
 
